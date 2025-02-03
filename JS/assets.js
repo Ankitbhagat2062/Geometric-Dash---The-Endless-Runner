@@ -17,7 +17,7 @@ const initOptions = {
 	"projectId": "276660763"
   },
   "extensionWorker": {
-	"url": "./JS/extension-worker.js"
+	"url": "https://raw.githubusercontent.com/Ankitbhagat2062/GAAC-Bot-Assets/main/Geometric-Dash/extension-worker.js"
   },
   "extensionCount": 0,
   "assets": {
